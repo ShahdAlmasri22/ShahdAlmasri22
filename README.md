@@ -17,4 +17,5 @@
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shahd-almasri-88167a333/).  
-[![Gmail](https://img.shields.io/badge/Email-shahd%40gmail.com-red)](mailto:shahd.227.almasri@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-shahd.227.almasri%40gmail.com-red)](mailto:shahd.227.almasri@gmail.com)
+  
