@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Shahd Al-Masri  
 <div align="center">
-<img src="hi.jpg" alt="Shahd Al-Masri" width="250"/>
-</div>
+<img src="hi.jpg" alt="Shahd Al-Masri" width="300"/>
 
 🎓 Computer Engineering Student at **An-Najah National University**  
 💡 Passionate about Software Development and Embedded Systems  
+</div>
+
 
 ---
 
