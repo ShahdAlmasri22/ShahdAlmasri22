@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shahd Al-Masri  
+# 👋 Hi, I'm Shahd Almasri  
 <div align="center">
 <img src="hi.jpg" alt="Shahd Al-Masri" width="300"/>
 
