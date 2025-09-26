@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shahd Al-Masri  
-<img src="your-image-file.jpg" alt="Shahd Al-Masri" width="250"/>
+<img src="hi.jpg" alt="Shahd Al-Masri" width="250"/>
 
 🎓 Computer Engineering Student at **An-Najah National University**  
 💡 Passionate about Software Development and Embedded Systems  
